@@ -1,0 +1,57 @@
+[
+  {
+    "id": "tt5207158",
+    "type": "movie",
+    "name": "Juzni vetar",
+    "poster": "https://i.postimg.cc/m20HhdGC/8-Ddg-Rz-UGJZTKhc-FIUG4-Jbg5-CRE6.jpg",
+    "description": "A great custom movie.",
+    "stream": "https://efproject.pro/FILMOJ/Juznii.mp4"
+  },
+  {
+    "id": "tt29281792",
+    "type": "movie",
+    "name": "Pokidan",
+    "poster": "https://i.postimg.cc/26hzPj3K/uoq-NM8q3-LVIFIDZPz1e9-Sg-A019-F.jpg",
+    "description": "A great custom movie.",
+    "stream": "https://www.youtube.com/watch?v=piSNm_ccI8Q"
+  },
+  {  
+    "id": "tt10952900",
+    "type": "series",
+    "name": "Juzni vetar: Na granici",
+    "poster": "https://i.postimg.cc/4y0h6PHC/tjrh-DXYSa-PTWIKKt-N9-Atr-Zc-Su5t.jpg",
+    "description": "A great custom series.",
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "id": "ep1",
+            "name": "Epizoda 1",
+            "stream": "https://efproject.pro/SEZONA1/JuzniiEp1.mp4"
+          },
+          {
+            "id": "ep2",
+            "name": "Epizoda 2",
+            "stream": "https://efproject.pro/SEZONA1/JuzniiEp2.mp4"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "episodes": [
+          {
+            "id": "ep1",
+            "name": "Epizoda 1",
+            "stream": "https://efproject.pro/SEZONA2/JuzniiEp1.mp4"
+          },
+          {
+            "id": "ep2",
+            "name": "Epizoda 2",
+            "stream": "https://efproject.pro/SEZONA2/JuzniiEp2.mp4"
+          }
+        ]
+      }
+    ]
+  }
+]
